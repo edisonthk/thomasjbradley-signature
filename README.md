@@ -18,4 +18,6 @@ index.phpをブラウザ上で開いてください。
 
 必要なライブラリーやcss,javascriptなどすでにインポートしてありますので、即使えます。
 
-
+### 参照
+https://github.com/thomasjbradley/signature-to-image/
+http://thomasjbradley.ca/lab/signature-pad/
