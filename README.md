@@ -1,8 +1,14 @@
 # thomasjbradley/signature-to-imageについて
 
 ### インストール
-Amazon Linuxかつphp v5.5 の場合
 
+まず、ライブラリー "Image Processing and GD"は必要のためyum installでインストール
+
+```
+sudo yum instal php-gd
+```
+
+Amazon Linuxのphp v5.5 の場合
 ```
 sudo yum install php55-gd
 ```
